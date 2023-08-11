@@ -1,4 +1,6 @@
-<<<<<<< HEAD
+# ALL CREDIT GOES TO WEBDECODED FOR THEIR WONDERFUL TUTORIAL ON YOUTUBE!!
+# FOLLOW THEM IF YOU WOULD LIKE TO LEARN MORE
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
